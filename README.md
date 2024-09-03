@@ -18,8 +18,7 @@
 # 捐助支持：
 我们的发展离不开社区的支持。如果您认为我们的工作对您有帮助，可以通过以下方式为我们的项目提供支持。扫描我们的捐助二维码
 访问我们的捐助页面：
-<div align=center><img src="[https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png](https://github.com/openharmony-next/.github/blob/main/donate.jpg)" width="300" height="450" /></div>
-
+<div align=center><img src="https://github.com/openharmony-next/.github/blob/main/donate.jpg" width="300" height="450" ><div>
 # 联系我们：
 - 邮箱：openharmony-next@qq.com
 - 项目主页：https:///github.com/openharmony-next/
